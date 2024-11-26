@@ -1,5 +1,4 @@
 - Hi, I’m @Bellojacob (Jacob Bello)
-- I’m interested in computers and software development 
-- I’m currently studying computer science at University
-- I’m looking to collaborate on projects to help me learn
-- How to reach me: jacobbello2002@gmail.com
+- I am currently a student at California State University, Monterey Bay (CSUMB)
+- I am studying Computer Science with a concentration in Network and Security
+- I am passionate about sports
