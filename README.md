@@ -10,7 +10,7 @@ I'm passionate about exploring and creating within the tech world, from developi
 🔐 Network Security
 🌐 Web Development
 ✈️ Aviation and Aerospace Systems
-🏎️ Passions Beyond Tech
+🏎️ Motorsports
 I'm deeply passionate about motorsports and aviation:
 
 Formula 1, IMSA, WEC, and WRC fuel my love for speed and endurance racing.
@@ -20,10 +20,10 @@ As a photography enthusiast, I enjoy capturing the beauty of sports, nature, and
 I aim to combine my technical expertise with my love for aviation and space exploration. One of my long-term goals is to become an Air Force or Navy pilot, contributing to innovation and pushing the boundaries of exploration.
 
 📸 Photography
-When I’m not coding or studying, you can find me with a camera in hand, framing moments of life.
+When I’m not coding or studying, you can find me with a camera in hand.
 
 🌟 Get in Touch
 📧 Email: [jacobbello2002@gmail.com]
 💼 LinkedIn: [[linkedin.com/Bello](https://www.linkedin.com/in/bellojacob/)]
-Feel free to explore my projects and connect with me on my journey! Together, let’s build, create, and push boundaries.
+Feel free to explore my projects and connect with me!
 
