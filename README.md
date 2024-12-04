@@ -17,7 +17,7 @@ Formula 1, IMSA, WEC, and WRC fuel my love for speed and endurance racing.
 I'm fascinated by space exploration, especially the work being done by SpaceX.
 As a photography enthusiast, I enjoy capturing the beauty of sports, nature, and travel.
 🚀 Dreams and Aspirations
-I aim to combine my technical expertise with my love for aviation and space exploration. One of my long-term goals is to become an Air Force or Navy pilot, contributing to innovation and pushing the boundaries of exploration.
+I aim to combine my technical expertise with my love for aviation and space exploration.
 
 📸 Photography
 When I’m not coding or studying, you can find me with a camera in hand.
