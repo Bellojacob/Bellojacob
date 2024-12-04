@@ -11,7 +11,6 @@ I'm passionate about exploring and creating within the tech world, from developi
 🌐 Web Development
 ✈️ Aviation and Aerospace Systems
 🏎️ Motorsports
-I'm deeply passionate about motorsports and aviation:
 
 Formula 1, IMSA, WEC, and WRC fuel my love for speed and endurance racing.
 I'm fascinated by space exploration, especially the work being done by SpaceX.
